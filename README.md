@@ -31,19 +31,31 @@ Want to connect or collaborate? Drop me a message on GitHub!
 
 *Always learning. Always building. Let’s make something awesome together!*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigyeoman)](https://github.com/craigyeoman/github-readme-stats)
+### ⚡ GitHub Overview  
 
-<!--
-**CraigYeoman/craigyeoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tgodkev/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=tgodkev&show_icons=true&theme=tokyonight" alt="Kev's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/tgodkev/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgodkev&hide=html,vue,css,svelte,swift,dockerfile&theme=tokyonight" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=tgodkev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/tgodkev/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tgodkev&theme=tokyo-night" alt="Kev's github activity graph" />
+  </a>
+</p>

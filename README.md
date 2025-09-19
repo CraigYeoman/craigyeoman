@@ -37,11 +37,6 @@ Want to connect or collaborate? Drop me a message on GitHub!
   <tr>
     <td>
       <a href="https://github.com/CraigYeoman/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=CraigYeoman&show_icons=true&theme=tokyonight" alt="Craig's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/CraigYeoman/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CraigYeoman&hide=html,vue,css,svelte,swift,dockerfile&theme=tokyonight" alt="Top Langs" />
       </a>
     </td>

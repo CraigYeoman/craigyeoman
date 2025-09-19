@@ -48,14 +48,3 @@ Want to connect or collaborate? Drop me a message on GitHub!
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CraigYeoman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CraigYeoman/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CraigYeoman&theme=tokyo-night" alt="Kev's github activity graph" />
-  </a>
-</p>
